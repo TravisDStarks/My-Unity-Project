@@ -9,11 +9,13 @@ TagManager:
   - Ability
   - Enemy
   - Obstacle
+  - enemy
+  - End Cube
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - 
